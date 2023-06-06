@@ -16,6 +16,6 @@ Projeto pessoal com o intuito de aprimorar minhas habilidades em C# e SQLite.
  <dd><img width=20px height=20px src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png'> SQLite3</dd>
 </ul> 
 
-### 🖥️ Desktop
+## 🖥️ Desktop
 
-<img alt="DevFy" src="assets/images/DevFy_gif.gif" />
+<img alt="DevFy" src="assets/ListaContatosGif.gif" />
